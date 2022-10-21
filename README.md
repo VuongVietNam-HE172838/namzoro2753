@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**namzoro2753/namzoro2753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vuong Viet Nam, u can call me Nam
 
-Here are some ideas to get you started:
+Here are some informations about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying at FPT University
+* K17
+* Major: Software Engineering
+* Current: Major 2nd Semester 
+- 🌱 I’m currently learning Frontend with Java, Javascript
+- 📫 How to reach me:
+* [Facebook](https://www.facebook.com/profile.php?id=100009747367404)
+* [Instagram](https://www.instagram.com/272727_betham/)
+* Email: namchik03@gmail.com
